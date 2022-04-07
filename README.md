@@ -1,4 +1,4 @@
-# NYU-Taix-Prediction
+# NYC-Taix-Prediction
 
 Abstract-
 
